@@ -6,7 +6,7 @@ const images = require("./routes/api/images");
 
 const app = express();
 
-// try again s
+// try again ss
 
 // Body parser middleware
 app.use(bodyParser.urlencoded({ extended: false }));
